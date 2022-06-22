@@ -2,7 +2,7 @@
 
 csv
 pandas==0.25.1
-numpy==1.15.4
+numpy==1.22.0
 datetime
 matplotlib==3.2.1
 
